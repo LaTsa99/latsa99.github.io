@@ -18,7 +18,7 @@ timezone: Europe/Budapest
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: LaTsa's                          # the main title
+title: LaTsa's Blog                         # the main title
 
 tagline: Computer Engineering student and Security Research intern     # it will display as the sub-title
 
