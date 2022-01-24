@@ -18,9 +18,9 @@ timezone: Europe/Budapest
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: LaTsa                          # the main title
+title: LaTsa's                          # the main title
 
-tagline: IT security student, security research intern    # it will display as the sub-title
+tagline: Computer Engineering student and Security Research intern     # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Random hacking guides and probebly other types of IT related blog posts
@@ -45,7 +45,7 @@ social:
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/lászló-szapula-8b9a581b8
+    - https://www.linkedin.com/in/l%C3%A1szl%C3%B3-szapula-8b9a581b8
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
